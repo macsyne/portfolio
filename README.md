@@ -67,7 +67,6 @@ my-portfolio/
 ## 📬 Contact
 
 - 🐙 GitHub: [github.com/macsyne](https://github.com/macsyne)
-- 📸 Instagram: *(your Instagram here)*
 
 ---
 
