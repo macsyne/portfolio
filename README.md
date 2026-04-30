@@ -1,5 +1,5 @@
 
-# 🌿 Maxene Victor — Personal Portfolio
+# 🌿Personal Portfolio
 
 A personal portfolio website built with **Python & Streamlit** to showcase my projects, skills, and a little bit about me.
 
